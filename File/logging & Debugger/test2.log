@@ -1,0 +1,156 @@
+2024-08-02 00:53:44,469 root INFO this is my info logging
+2024-08-02 00:53:44,471 root ERROR this is my error msg
+2024-08-02 00:53:44,472 root CRITICAL this is my critical
+2024-08-02 11:07:09,348 ipykernel.comm ERROR No such comm target registered: jupyter.widget.control
+2024-08-02 11:07:09,353 Comm WARNING No such comm: 316f9a31-480f-4e0f-83f0-03e2a29069c1
+2024-08-02 11:07:09,358 Comm DEBUG Current comms: []
+2024-08-02 11:16:31,330 ipykernel.comm ERROR No such comm target registered: jupyter.widget.control
+2024-08-02 11:16:31,332 Comm WARNING No such comm: dc566bcb-42fb-42d2-878c-fd38b5bdd981
+2024-08-02 11:16:31,333 Comm DEBUG Current comms: []
+2024-08-02 11:17:17,909 ipykernel.comm ERROR No such comm target registered: jupyter.widget.control
+2024-08-02 11:17:17,951 Comm WARNING No such comm: db8d49cb-3962-43de-aa6d-9793f57d6ec2
+2024-08-02 11:17:17,951 Comm DEBUG Current comms: []
+2024-08-02 12:27:08,369 ipykernel.comm ERROR No such comm target registered: jupyter.widget.control
+2024-08-02 12:27:08,375 Comm WARNING No such comm: 64e34b75-4a8d-425a-ab47-5591a53272b6
+2024-08-02 12:27:08,375 Comm DEBUG Current comms: []
+2024-08-02 12:42:45,172 ipykernel.comm ERROR No such comm target registered: jupyter.widget.control
+2024-08-02 12:42:45,178 Comm WARNING No such comm: 3299f13a-854e-4dce-8fe8-fc6021b61e61
+2024-08-02 12:42:45,180 Comm DEBUG Current comms: []
+2024-08-03 23:43:46,307 root INFO this is my info logging
+2024-08-03 23:43:46,318 root ERROR this is my error msg
+2024-08-03 23:43:46,318 root CRITICAL this is my critical
+2024-08-03 23:43:48,984 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:43:48,984 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:43:48,985 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:43:48,985 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:43:48,985 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:43:48,985 root INFO i am inside if statement and i am trying to check list type
+2024-08-03 23:43:48,985 root INFO i am in anothe for loop for list inside list element
+2024-08-03 23:43:59,690 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:43:59,691 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:43:59,691 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:43:59,691 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:43:59,691 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:43:59,691 root INFO i am inside if statement and i am trying to check list type
+2024-08-03 23:43:59,691 root INFO i am in anothe for loop for list inside list element
+2024-08-03 23:43:59,691 root INFO i am inside if statement
+2024-08-03 23:43:59,691 root INFO i am in anothe for loop for list inside list element
+2024-08-03 23:43:59,691 root INFO i am inside if statement
+2024-08-03 23:43:59,691 root INFO i am in anothe for loop for list inside list element
+2024-08-03 23:43:59,691 root INFO i am inside if statement
+2024-08-03 23:43:59,691 root INFO i am in anothe for loop for list inside list element
+2024-08-03 23:43:59,691 root INFO i am inside if statement
+2024-08-03 23:43:59,692 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:43:59,692 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:45:57,606 root INFO log this line of execution
+2024-08-03 23:45:57,616 root INFO this is my print
+2024-08-03 23:45:57,628 root DEBUG this is my debug
+2024-08-03 23:45:57,638 root WARNING this is my warning
+2024-08-03 23:45:57,648 root ERROR this is my error
+2024-08-03 23:45:57,658 root CRITICAL this is my critical msg
+2024-08-03 23:45:57,693 root INFO this is my info logging
+2024-08-03 23:45:57,698 root ERROR this is my error msg
+2024-08-03 23:45:57,698 root CRITICAL this is my critical
+2024-08-03 23:45:57,733 root INFO this is my info logging
+2024-08-03 23:45:57,733 root ERROR this is my error msg
+2024-08-03 23:45:57,737 root CRITICAL this is my critical
+2024-08-03 23:45:57,756 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:45:57,756 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:45:57,756 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:45:57,756 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:45:57,756 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:45:57,756 root INFO i am inside if statement and i am trying to check list type
+2024-08-03 23:45:57,756 root INFO i am in anothe for loop for list inside list element
+2024-08-03 23:45:57,756 root INFO i am inside if statement
+2024-08-03 23:45:57,756 root INFO i am in anothe for loop for list inside list element
+2024-08-03 23:45:57,756 root INFO i am inside if statement
+2024-08-03 23:45:57,756 root INFO i am in anothe for loop for list inside list element
+2024-08-03 23:45:57,756 root INFO i am inside if statement
+2024-08-03 23:45:57,757 root INFO i am in anothe for loop for list inside list element
+2024-08-03 23:45:57,757 root INFO i am inside if statement
+2024-08-03 23:45:57,757 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:45:57,757 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:46:24,085 root INFO log this line of execution
+2024-08-03 23:46:24,094 root INFO this is my print
+2024-08-03 23:46:24,107 root DEBUG this is my debug
+2024-08-03 23:46:24,120 root WARNING this is my warning
+2024-08-03 23:46:24,130 root ERROR this is my error
+2024-08-03 23:46:24,141 root CRITICAL this is my critical msg
+2024-08-03 23:46:24,182 root INFO this is my info logging
+2024-08-03 23:46:24,183 root ERROR this is my error msg
+2024-08-03 23:46:24,183 root CRITICAL this is my critical
+2024-08-03 23:46:24,220 root INFO this is my info logging
+2024-08-03 23:46:24,220 root ERROR this is my error msg
+2024-08-03 23:46:24,220 root CRITICAL this is my critical
+2024-08-03 23:46:24,243 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:46:24,243 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:46:24,243 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:46:24,243 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:46:24,243 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:46:24,243 root INFO i am inside if statement and i am trying to check list type
+2024-08-03 23:46:24,243 root INFO i am in anothe for loop for list inside list element
+2024-08-03 23:46:24,243 root INFO i am inside if statement
+2024-08-03 23:46:24,243 root INFO i am in anothe for loop for list inside list element
+2024-08-03 23:46:24,243 root INFO i am inside if statement
+2024-08-03 23:46:24,243 root INFO i am in anothe for loop for list inside list element
+2024-08-03 23:46:24,243 root INFO i am inside if statement
+2024-08-03 23:46:24,243 root INFO i am in anothe for loop for list inside list element
+2024-08-03 23:46:24,243 root INFO i am inside if statement
+2024-08-03 23:46:24,243 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:46:24,243 root INFO we are iterating through our list and our local var is i
+2024-08-03 23:50:10,900 root INFO we are iterating through our list and our local var is i[1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:50:10,900 root INFO we are iterating through our list and our local var is i[1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:50:10,900 root INFO we are iterating through our list and our local var is i[1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:50:10,900 root INFO we are iterating through our list and our local var is i[1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:50:10,900 root INFO we are iterating through our list and our local var is i[1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:50:10,900 root INFO i am inside if statement and i am trying to check list type[2, 3, 5, 5]
+2024-08-03 23:50:10,900 root INFO i am in anothe for loop for list inside list element2
+2024-08-03 23:50:10,900 root INFO i am inside if statement
+2024-08-03 23:50:10,900 root INFO i am in anothe for loop for list inside list element3
+2024-08-03 23:50:10,900 root INFO i am inside if statement
+2024-08-03 23:50:10,900 root INFO i am in anothe for loop for list inside list element5
+2024-08-03 23:50:10,900 root INFO i am inside if statement
+2024-08-03 23:50:10,900 root INFO i am in anothe for loop for list inside list element5
+2024-08-03 23:50:10,900 root INFO i am inside if statement
+2024-08-03 23:50:10,900 root INFO we are iterating through our list and our local var is i[1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:50:10,902 root INFO we are iterating through our list and our local var is i[1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:54:55,688 root INFO we are iterating through our list and our local var is i [1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:54:55,688 root INFO we are iterating through our list and our local var is i [1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:54:55,688 root INFO we are iterating through our list and our local var is i [1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:54:55,688 root INFO we are iterating through our list and our local var is i [1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:54:55,688 root INFO we are iterating through our list and our local var is i [1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:54:55,688 root INFO i am inside if statement and i am trying to check list type[2, 3, 5, 5]
+2024-08-03 23:54:55,688 root INFO i am in anothe for loop for list inside list element2
+2024-08-03 23:54:55,688 root INFO i am inside if statement
+2024-08-03 23:54:55,688 root INFO i am in anothe for loop for list inside list element3
+2024-08-03 23:54:55,688 root INFO i am inside if statement
+2024-08-03 23:54:55,688 root INFO i am in anothe for loop for list inside list element5
+2024-08-03 23:54:55,688 root INFO i am inside if statement
+2024-08-03 23:54:55,688 root INFO i am in anothe for loop for list inside list element5
+2024-08-03 23:54:55,688 root INFO i am inside if statement
+2024-08-03 23:54:55,688 root INFO we are iterating through our list and our local var is i [1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:54:55,688 root INFO we are iterating through our list and our local var is i [1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:54:55,688 root INFO my final result for int is [1, 2, 3, 5, 2, 3, 5, 5] and str is ['sudh', 'kumar']
+2024-08-03 23:56:39,610 root INFO this is my info logging
+2024-08-03 23:56:39,610 root ERROR this is my error msg
+2024-08-03 23:56:39,611 root CRITICAL this is my critical
+2024-08-03 23:56:40,816 root INFO we are iterating through our list and our local var is i [1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:56:40,817 root INFO we are iterating through our list and our local var is i [1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:56:40,817 root INFO we are iterating through our list and our local var is i [1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:56:40,817 root INFO we are iterating through our list and our local var is i [1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:56:40,817 root INFO we are iterating through our list and our local var is i [1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:56:40,817 root INFO i am inside if statement and i am trying to check list type[2, 3, 5, 5]
+2024-08-03 23:56:40,817 root INFO i am in anothe for loop for list inside list element2
+2024-08-03 23:56:40,817 root INFO i am inside if statement
+2024-08-03 23:56:40,817 root INFO i am in anothe for loop for list inside list element3
+2024-08-03 23:56:40,817 root INFO i am inside if statement
+2024-08-03 23:56:40,817 root INFO i am in anothe for loop for list inside list element5
+2024-08-03 23:56:40,817 root INFO i am inside if statement
+2024-08-03 23:56:40,818 root INFO i am in anothe for loop for list inside list element5
+2024-08-03 23:56:40,818 root INFO i am inside if statement
+2024-08-03 23:56:40,818 root INFO we are iterating through our list and our local var is i [1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:56:40,819 root INFO we are iterating through our list and our local var is i [1, 2, 3, 5, [2, 3, 5, 5], 'sudh', 'kumar']
+2024-08-03 23:56:40,819 root INFO my final result for int is [1, 2, 3, 5, 2, 3, 5, 5] and str is ['sudh', 'kumar']
+2024-08-04 09:43:28,794 ipykernel.comm ERROR No such comm target registered: jupyter.widget.control
+2024-08-04 09:43:28,804 Comm WARNING No such comm: b741e2b7-34b9-41bb-b0d6-e7ec183648f6
+2024-08-04 09:43:28,804 Comm DEBUG Current comms: []

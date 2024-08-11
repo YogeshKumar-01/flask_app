@@ -1,0 +1,5 @@
+ERROR:root:i am trying to handle a zerodivision error division by zero
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+ERROR:root:i am trying to handle a zero division error division by zero 
